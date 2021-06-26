@@ -7,4 +7,4 @@
 
 #Bu Script Nasıl Çalıştırılır?
 
-python3 portscanner.py <ip> <başlangıç portu #> <bitiş portu #>
+-> python3 portscanner.py <ip> <başlangıç portu> <bitiş portu>
